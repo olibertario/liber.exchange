@@ -1,0 +1,8 @@
+User-agent: *
+
+# Block order page indexing
+Disallow: /de/order/
+Disallow: /en/order/
+Disallow: /ru/order/
+
+Sitemap: https://n.exchange/sitemap.xml
